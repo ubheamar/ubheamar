@@ -1,13 +1,11 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 <a href="https://twitter.com/Amarubhe">
   <img align="left" alt="Amar Ubhe | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/amar-ubhe-7166105b/">
   <img align="left" alt="Amar Ubhe" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-<br />
+---
 
 Hi, I'm [Amar Ubhe](https://amarubhe.me/), a passionate self-taught Full Stack web developer and a software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
@@ -28,5 +26,5 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 **My GitHub Stats:**
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ubheamar&show_icons=true&theme=gotham" alt="ubheamar" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ubheamar&show_icons=true&count_private=true" alt="ubheamar" />
 
