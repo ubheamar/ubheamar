@@ -5,9 +5,10 @@
 <a href="https://www.linkedin.com/in/amar-ubhe-7166105b/">
   <img align="left" alt="Amar Ubhe" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 ---
 
-Hi, I'm [Amar Ubhe](https://amarubhe.me/), a passionate self-taught Full Stack web developer and a software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Amar Ubhe](https://amarubhe.me/), a passionate self-taught SAP Full Stack developer from India.Initially, I started my career as an SAP ABAP developer.I was very interested in new technology learning so I shifted my career to ABAP to Fiori later on Nodejs Application Development.Currently I have experince with varius technology which include **SAP ABAP, Fiori,OData Services, Process Integration Technology, Restful Application Programming,CloudApplication Programming skills,Java & React Js**  
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -26,5 +27,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 **My GitHub Stats:**
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ubheamar&show_icons=true&count_private=true" alt="ubheamar" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=ubheamar&show_icons=true&count_private=true" alt="ubheamar" /></p>
 
+<p>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubheamar&layout=compact" alt="ubheamar"></p>
