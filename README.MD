@@ -15,15 +15,21 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 **Languages and Tools:**  
 
+<code><img height="20" src="https://raw.githubusercontent.com/ubheamar/ubheamar/master/icons/UI5_logo.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/ubheamar/ubheamar/master/icons/powering-sap-btp-color-logo.svg"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/ubheamar/ubheamar/master/icons/logo_sap_cloud_platform.png"></code>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-**My GitHub Stats**
+**My GitHub Stats:**
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ubheamar&show_icons=true&theme=gotham" alt="ubheamar" />
