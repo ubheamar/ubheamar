@@ -8,7 +8,7 @@
 
 ---
 
-Hi, I'm [Amar Ubhe](https://amarubhe.me/), a passionate self-taught SAP Full Stack developer from India.Initially, I started my career as an SAP ABAP developer.I was very interested in new technology learning so I shifted my career to ABAP to Fiori later on Nodejs Application Development.Currently I have experince with varius technology which include **SAP ABAP, Fiori,OData Services, Process Integration Technology, Restful Application Programming,CloudApplication Programming skills,Java & React Js**  
+Hi, I'm [Amar Ubhe](https://amarubhe.me/), a passionate self-taught SAP Full Stack developer from India.Initially, I started my career as an SAP ABAP developer.I was very interested in new technology learning so I shifted my career to ABAP to Fiori later on Nodejs Application Development.Currently I have experince with various technology which include **SAP ABAP, Fiori,OData Services, Process Integration Technology, Restful Application Programming,CloudApplication Programming skills,Java & React Js**  
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
